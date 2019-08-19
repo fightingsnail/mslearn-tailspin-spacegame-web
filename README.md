@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin515/SpaceGame-Web/_apis/build/status/fightingsnail.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin515/SpaceGame-Web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
